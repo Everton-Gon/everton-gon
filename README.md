@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Everton Gonçalves 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/everton_gonc)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/evertongoncalves)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/everton-goncalves)
 
 
 ![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=everton-gon&show_icons=true&theme=dracula)
